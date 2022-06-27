@@ -1,0 +1,7 @@
+Tieu Hy, 19, Female, 90
+Tran Thi Minh Thu, 21, Female, 65
+Pham Ngoc Huy, 25, Male, 65
+Tran Nguyen Hoang Le Thien An, 26, Female, 65
+Nguyen Bao Khanh, 26, Male, 65
+Trinh Tran Nguyen Hoang Le Vuong Phuong Tuan, 26, Male, 45
+Vu Tuan Huy, 20, Male, 20
